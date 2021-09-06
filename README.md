@@ -27,7 +27,7 @@
 
 <br/>
 <div align="center">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fabichoi"/>&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=fabichoi&show_icons=true&bg_color=10,ff12ff,11eeff&hide=stars&hide_border=true&text_color=ffffff&title_color=ffffff&icon_color=ffffff">
+    <div style="display: inline; margin-right: 10px"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fabichoi"/></div>
+    <div style="display: inline; margin-left: 10px"><img src="https://github-readme-stats.vercel.app/api?username=fabichoi&show_icons=true&bg_color=50,FFD878,FF9937&hide=stars&hide_border=true&hide_rank=true&text_color=ffffff&title_color=ffffff&icon_color=ffffff"></div>
 </div>
 
