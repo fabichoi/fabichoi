@@ -24,10 +24,7 @@
   <a href="mailto:fabianus.c@gmail.com" target="_blank"><img src="https://img.shields.io/badge/fabianus.c@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/fabichoi/" target="_blank"><img src="https://img.shields.io/badge/Fabichoi-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
-
-<br/>
-<div align="center">
-    <div style="display: inline; margin-right: 10px"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fabichoi"/></div>
-    <div style="display: inline; margin-left: 10px"><img src="https://github-readme-stats.vercel.app/api?username=fabichoi&show_icons=true&bg_color=50,FFD878,FF9937&hide=stars&hide_border=true&hide_rank=true&text_color=ffffff&title_color=ffffff&icon_color=ffffff"></div>
-</div>
+<h3 align="center"> 💬 Etc 💬 </h3>
+<p align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fabichoi"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=fabichoi&show_icons=true&bg_color=50,FFD878,FF9937&hide=stars&hide_border=true&&text_color=ffffff&title_color=ffffff&icon_color=ffffff"></p>
 
