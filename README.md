@@ -1,4 +1,4 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=092E20&fontColor=f7f5f5&height=85&&fontAlignY=55&section=header&text=Fabi Choi&fontSize=45" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=092E20&fontColor=f7f5f5&height=85&&fontAlignY=55&section=header&text=Fabi%20Choi&fontSize=45" /></p>
 <p align="center">
   <a href="http://fabichoi.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-00D1B2?style=flat-square&logo=Blogger&Sponsors&logoColor=white"/></a>
   <a href="mailto:fabianus.c@gmail.com" target="_blank"><img src="https://img.shields.io/badge/fabianus.c@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
